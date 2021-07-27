@@ -1,0 +1,1 @@
+PROJCS["unnamed",GEOGCS["UNK",DATUM["Unknown datum",SPHEROID["WGS 84",6378137,298.257223563]],PRIMEM["Greenwich",0],UNIT["degree",0.017453292519943295]],PROJECTION["custom_proj4"],UNIT["Meter",1],EXTENSION["PROJ4","+proj=natearth +ellps=WGS84 +wktext"]]
